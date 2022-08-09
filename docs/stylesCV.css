@@ -263,6 +263,7 @@ i {
     margin: 3px;
     grid-template-columns: 0.5fr 1fr;
     box-shadow: none;
+    margin-bottom: 100px;
         }
 
         .resume .resume_right {
